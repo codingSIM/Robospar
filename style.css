@@ -1,0 +1,21 @@
+html {
+	background-image: url("img/bg.jpg");
+}
+
+.space {
+	margin: auto;
+	margin-top: 8em;
+}
+
+canvas {
+	display: block;
+	align-content: center;
+	margin: auto;
+	border: 1em solid #242424;
+}
+
+ul {
+	margin:0;
+	padding-top:0.1em;
+	padding-bottom:0.1em;
+}
