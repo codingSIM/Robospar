@@ -1,5 +1,4 @@
 # Robospar
----------------------------------------------------------------------
 Robospar is a simulation of the game I got introduced to at university. 
 The game we played was on paper so I thought it would be fun and useful 
 to code it.
@@ -22,7 +21,6 @@ Attention: To orient yourself towards your base you need 3 rotations.
 Example: ("RRR")
 
 # Future improvements
-----------------------------------------------------------------------
 Robospar has just been updated with new graphics. 
 A new board was added, side menu redesign and new ships. 
 Next update would bring in obstacles on the board, so the game differs every time, 
