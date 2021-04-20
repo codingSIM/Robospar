@@ -10,6 +10,7 @@ is not turn based.
 
 ! The players have to press 1 or 2 to enter the string of moves in the 
 respective box. 
+
 ! Players can delete a move if they press the delete key, not backspace.
 
 The moves available are: 
