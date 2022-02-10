@@ -1,7 +1,6 @@
 # Robospar
-Robospar is a simulation of the game I got introduced to at university. 
-The game we played was on paper so I thought it would be fun and useful 
-to code it.
+Robospar is a simulation of a mini game I got introduced to at university. 
+The game we were taught was on paper so I thought it would be fun to code it.
 
 Robospar is a simple game. 
 The objective is to either reach your base first or zap your oponent. 
